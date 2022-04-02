@@ -1,2 +1,2 @@
 # Rust
-Contains code in Rust language using the official book which can be found here https://doc.rust-lang.org/book/title-page.html
+Contains code in Rust language using the official book and my own expriments. Book can be found here https://doc.rust-lang.org/stable/book/
